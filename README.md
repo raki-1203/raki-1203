@@ -19,7 +19,7 @@
 
 
 [![Raki's github stats](https://github-readme-stats.vercel.app/api?username=raki-1203)](https://github.com/raki-1203/github-readme-stats)
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">
 
 
 
