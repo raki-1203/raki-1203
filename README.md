@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jfhdzzang@gmail.com)](mailto:jfhdzzang@gmail.com)
 
 ### Hi, I'm Raki, a always studying Machine Learning Beginners
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">
 
 - :sunglasses: &nbsp; I majored in applied statistics.
 - :seedling: &nbsp; I'm currently studying NLP.
@@ -19,7 +20,7 @@
 
 
 [![Raki's github stats](https://github-readme-stats.vercel.app/api?username=raki-1203)](https://github.com/raki-1203/github-readme-stats)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jfhdzzang">
+
 
 
 
