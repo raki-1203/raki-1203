@@ -9,7 +9,7 @@
 
 - :sunglasses: &nbsp; I majored in applied statistics.
 - :seedling: &nbsp; I'm currently studying NLP.
-- :book: I am currently participating in Boostcamp AI Tech 2nd
+- :book: &nbsp; I am currently participating in Boostcamp AI Tech 2nd
 - :email: &nbsp; If you want to contact me, please leave me a message!
 
 ### Interest
