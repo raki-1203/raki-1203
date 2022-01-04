@@ -16,6 +16,7 @@
 
 - Natural Language Generation(NLG) :pencil:
 - Question & Answering (Q&A) :question:
+- Recommendation System (ReSys)
 
 
 
