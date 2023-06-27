@@ -17,7 +17,7 @@
 
 - Natural Language Generation(NLG) :pencil:
 - Question & Answering (Q&A) :question:
-- Langchain
+- Langchain :loop:
 
 
 
